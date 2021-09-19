@@ -1,0 +1,1 @@
+export const BACKEND_API_URL = "http://194.0.0.227:4000/api/";
